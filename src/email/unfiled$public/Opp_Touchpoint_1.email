@@ -1,0 +1,5 @@
+Hello {!Opportunity.Contact__c},
+
+         Opportunity “Stage”is "Closed Won" or "Closed Partial".
+
+Thank You.
